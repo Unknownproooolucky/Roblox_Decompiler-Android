@@ -95,7 +95,7 @@ for i,v in pairs(game.ReplicatedStorage:GetDescendants()) do
 end
 
 for i,v in pairs(game.ReplicatedFirst:GetDescendants()) do
-	if v:IsA"ModuleScript" or v:IsA"LocalScript"then
+	if v:IsA"ModuleScript" or v:IsA"LocalScript" then
 		Label(v.Name, v)
 	end
 end
