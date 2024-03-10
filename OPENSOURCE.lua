@@ -1,6 +1,7 @@
 --[[
 MADE BY NOCTURAL (SCRIPTBLOX) (ORIGINAL OWNER)
 IMPROVED BY NIXELPIXEL (SCRIPTBLOX)
+Pls let the owner of dark dex know this 🙏🙏🙏
 ]]
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
