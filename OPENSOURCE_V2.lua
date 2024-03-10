@@ -298,7 +298,7 @@ for i,v in pairs(game:GetService("ReplicatedStorage"):GetDescendants()) do
 end
 
 for i,v in pairs(game:GetService("ReplicatedFirst"):GetDescendants()) do
-	if v:IsA"ModuleScript" or v:IsA"LocalScript"then
+	if v:IsA"ModuleScript" or v:IsA"LocalScript" then
 		Label(v.Name, v)
 	end
 end
