@@ -315,7 +315,6 @@ local function Label(text, text2)
     Name = text,
     Callback = function()
         local a = text2
-        local a = v
         if DecompilerV1 then
         local b = SimpleDecompile(a)
         end
